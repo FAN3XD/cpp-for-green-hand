@@ -1,0 +1,3 @@
+"D:\JetBrains\CLion 2020.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\chartype.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\chartype.dir/objects.a @CMakeFiles\chartype.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\chartype.dir/objects.a -Wl,--no-whole-archive  -o chartype.exe -Wl,--out-implib,libchartype.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\chartype.dir\linklibs.rsp
