@@ -1,0 +1,3 @@
+C:/Users/33215/Documents/JetBrains/CLion/Clion-cpp/New06/cmake-build-debug/CMakeFiles/New06.dir
+C:/Users/33215/Documents/JetBrains/CLion/Clion-cpp/New06/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/33215/Documents/JetBrains/CLion/Clion-cpp/New06/cmake-build-debug/CMakeFiles/rebuild_cache.dir
