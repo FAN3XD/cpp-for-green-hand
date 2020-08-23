@@ -1,0 +1,3 @@
+C:/Users/33215/Documents/JetBrains/CLion/Clion-cpp/floatnum/cmake-build-debug/CMakeFiles/floatnum.dir
+C:/Users/33215/Documents/JetBrains/CLion/Clion-cpp/floatnum/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/33215/Documents/JetBrains/CLion/Clion-cpp/floatnum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
